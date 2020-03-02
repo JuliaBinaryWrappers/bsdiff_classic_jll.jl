@@ -1,0 +1,11 @@
+name = "bsdiff_classic_jll"
+uuid = "7424abe3-9926-5da8-9b28-863d6330819c"
+version = "4.3.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Bzip2_jll = "6e34b625-4abd-537c-b88f-471c36dfa7a0"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

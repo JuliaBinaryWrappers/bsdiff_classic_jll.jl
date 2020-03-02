@@ -1,0 +1,97 @@
+[[bsdiff_classic]]
+arch = "aarch64"
+git-tree-sha1 = "fa9e076e99e5c96e1fa20443ed1325a5b7e445e4"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "dc6ea0d4ff51dc21792a794c5e1d7825a69866f66eb04df034150e716c3555f2"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.aarch64-linux-musl.tar.gz"
+[[bsdiff_classic]]
+arch = "x86_64"
+git-tree-sha1 = "272f6ac15dad8228d12d381a116cd520a096bb73"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "d642985d475dbaecd70fbbf1ebb21b38b6098e6989f2797edbdba5ecb39288d1"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.x86_64-linux-musl.tar.gz"
+[[bsdiff_classic]]
+arch = "i686"
+git-tree-sha1 = "ef3181c5c564886eaa207a71a8e829c85b5d5902"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "47ccfc0e91a7e521eb16c3b9154fbb389b08a8a752a2895b278ceaf8c179f0dc"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.i686-linux-gnu.tar.gz"
+[[bsdiff_classic]]
+arch = "armv7l"
+git-tree-sha1 = "e3bdf7d41949bf24774de123131ec24112e12c21"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "99d5242ea5e74008a2a1c5b2b7e99b0aac24c61ae7a246804373e49e9aaef7f1"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.armv7l-linux-gnueabihf.tar.gz"
+[[bsdiff_classic]]
+arch = "aarch64"
+git-tree-sha1 = "83dbb1ffbfdadc773841cda9b6f9ca047335eecb"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "b779b7732849a2e87b357bb1be54ee09cfd0363489af69f6ab580782230cd88e"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.aarch64-linux-gnu.tar.gz"
+[[bsdiff_classic]]
+arch = "x86_64"
+git-tree-sha1 = "c52678039b62356821a94655195bce079d44ee34"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "9d64b3ccaf83b5777b78301085817f850f1e5edb24189e7ff0765c1df4e68b6f"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.x86_64-linux-gnu.tar.gz"
+[[bsdiff_classic]]
+arch = "powerpc64le"
+git-tree-sha1 = "636084a4ba6b65e62d7603c61ccbd8dfa151e499"
+libc = "glibc"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "5ed00b7854e915afb57c5249f24592bf0390012515ae176eb7bbfce865e7c5e0"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.powerpc64le-linux-gnu.tar.gz"
+[[bsdiff_classic]]
+arch = "x86_64"
+git-tree-sha1 = "a41c6b2fe1a486942c20f5c7c9e7e89839f810b5"
+os = "macos"
+
+    [[bsdiff_classic.download]]
+    sha256 = "e2df9f5457a5cc41fff5daf462461f67738ae318442c1062a4ee10248847f74e"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.x86_64-apple-darwin14.tar.gz"
+[[bsdiff_classic]]
+arch = "x86_64"
+git-tree-sha1 = "55fa55d271f8c3e982c7467b1efbfe60f08e4e29"
+os = "freebsd"
+
+    [[bsdiff_classic.download]]
+    sha256 = "436cca4530474275c23b7ce5a9966fc6e46d6cd1b0262f60b3c8d2960030808c"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[bsdiff_classic]]
+arch = "i686"
+git-tree-sha1 = "06a58abf10f7ba60d5c1ecdca90641058a22aa6c"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "9909cd7bb2efd66dd7716b51317ac543467e2f068dabda7b5a48e8c12dd7b78b"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.i686-linux-musl.tar.gz"
+[[bsdiff_classic]]
+arch = "armv7l"
+git-tree-sha1 = "657fa17bbff3e52a8dc447870a72cf2299907e7b"
+libc = "musl"
+os = "linux"
+
+    [[bsdiff_classic.download]]
+    sha256 = "98f652da0160317d7abb36517996e8abf68ebb0e8ab3d9addb7f28c4fd421e73"
+    url = "https://github.com/JuliaBinaryWrappers/bsdiff_classic_jll.jl/releases/download/bsdiff_classic-v4.3.0+0/bsdiff_classic.v4.3.0.armv7l-linux-musleabihf.tar.gz"
